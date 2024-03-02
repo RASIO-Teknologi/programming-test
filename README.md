@@ -6,6 +6,6 @@ Oleh karena itu Ahlinya Retail membutuhkan sebuah sistem berbasis website yang d
 
 Berikut merupakan kebutuhan fitur dari sistem yang ingin dimiliki oleh pemilik Ahlinya Retail : 
 
-1. Fitur database barang
-  1. Pemilik ingin memiliki list data barang secara lengkap, mulai dari nama barang, foto barang, kode barang, tempat rak barang, deskripsi barang, harga beli, harga jual, jumlah barang dan deskripsi barang.
-  2.Pemilik ingin para karyawannya juga memudahkan dalam melakukan pencarian barang sesuai nama barang atau id barang. Ketika menemukan data barang tersebut, karyawan juga bisa melihat informasi detail barang tersebut.
+1. A numbered list
+  1. A nested numbered list
+  2. Which is numbered
